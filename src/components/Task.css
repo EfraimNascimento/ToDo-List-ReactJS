@@ -1,0 +1,26 @@
+.task-container{
+    background-color: #661586;
+    margin: 8px 0;
+    padding: 15px 20px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    color: #E7DFDD;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.task-title{
+    cursor: pointer;
+}
+
+.remove-task-button, .see-task-details{
+    background-color: #661586;
+    border: none;
+    font-size: 24px;
+    color: #E7DFDD;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
